@@ -34,7 +34,7 @@ Estado:       [ Terminado ]
 '''
 
 import random
-ran = random.randint(1,10)
+ran = random.randint(1,100)
 
 print(f"Ingresa un número entre {1} y {100}")
 while True:
@@ -44,6 +44,6 @@ while True:
     break
   else:
     if num > ran:
-      print("El número secreto es mayor")
-    else:
       print("El número secreto es menor")
+    else:
+      print("El número secreto es mayor")
