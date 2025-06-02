@@ -1,35 +1,16 @@
 '''
-Clase:        3
-Tema:         5. Bloques iterativos
+Clase:        5
+Tema:         Bloques iterativos
 Descripción:
 Genera un número aleatorio entre 1 y 100 y pide al usuario que lo adivine.
-El programa debe seguir pidiendo números hasta que acierte. En cada
-intento fallido el programa notificará al usuario si el número secreto es
-mayor o menor al último valor ingresado.
-
+El programa debe seguir pidiendo números hasta que acierte. En cada intento fallido el programa notificará al usuario si el número secreto es mayor o menor al último valor ingresado.
 Entrada:
-• Números enteros entre 1 y 100.
-
+* Números enteros entre 1 y 100.
 Salida:
-• Tres posibles salidas: “El número secreto es menor”, “El número secreto
-es mayor”, ¡Felicidades! Has adivinado el número secreto”
-
-Conceptos explorados:
-• Uso de bucles indefinidos
-
-Ejemplo (Respetar el formato de entrada y salida):
-
-Ingresa un numero entre 1 y 100: 50
-El número secreto es mayor
-Ingresa un numero entre 1 y 100: 75
-El número secreto es menor
-Ingresa un numero entre 1 y 100: 56
-!Felicidades¡ Has adivinado el número secreto: 56
-
-Ejercicio requerido (tarea 8)
+* Tres posibles salidas: "El número secreto es menor", "El número secreto es mayor", ¡Felicidades! Has adivinado el número secreto"
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-28-15
+Fecha:        2025-05-28
 Estado:       [ Terminado ]
 '''
 

@@ -14,7 +14,7 @@ Propina: $1.00
 Total de la cuenta con propina (10%): $11.00
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-05-15
+Fecha:        2025-05-12
 Estado:       [ Terminado ]
 '''
 

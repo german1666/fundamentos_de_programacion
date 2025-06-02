@@ -14,7 +14,7 @@ Restricciones:
 * 1≤n ≤ 10^18
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-14-15
+Fecha:        2025-05-12
 Estado:       [ Terminado ]
 '''
 

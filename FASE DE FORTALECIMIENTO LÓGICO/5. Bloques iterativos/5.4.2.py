@@ -1,24 +1,18 @@
 '''
-Clase:        3
-Tema:         5. Bloques iterativos
+Clase:        5
+Tema:         Bloques iterativos
 Descripción:
-Pide un número al usuario y suma sus dígitos hasta que quede un solo dígito. Ejemplo:
+Pide un número al usuario y suma sus dígitos hasta que quede un solo digito. Ejemplo:
 Si el usuario ingresa 9875, entonces: 9+8+7+5 = 29 → 2+9 = 11 → 1+1 = 2.
-
 Entrada:
-• Un numero entero.
-
+* Un numero entero.
 Restricciones:
-• 1 ≤ número ≤ 10^9
-
+* 1 ≤ número ≤ 10^9
 Conceptos explorados:
-• Bucles y control de flujo.
-
-Ejercicio requerido (tarea 8)
-
+* Bucles y control de flujo.
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-28-15
+Fecha:        2025-05-28
 Estado:       [ Terminado ]
 '''
 

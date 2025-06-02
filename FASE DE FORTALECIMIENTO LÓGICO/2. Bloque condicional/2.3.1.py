@@ -2,14 +2,24 @@
 Clase:        2
 Tema:         Bloque condicional
 Descripción:  
-Dados tres enteros a, b y k, imprime el resultado de a / b con k decimales exactos (sin redondear).
-Conceptos explorados:
-* Operaciones aritmeticas
-* Manejo de negativos y ceros
-* Precisión arbitraria en decimales.
+Solicita una cadena de texto que representa una contraseña, y verifica si la contraseña
+cumple con las siguientes condiciones: tener al menos 8 caracteres, un número y una
+mayúscula.
+
+Entrada:
+• Una cadena de texto
+
+Salida:
+• Dos posibles valores: "Contraseña segura" o "Contraseña no segura".
+
+Restricciones:
+• Sin restricciones
+
+Sugerencia:
+• Investigar sobre los métodos isdigit() y isupper()
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-14-15
+Fecha:        2025-05-12
 Estado:       [ Terminado ]
 '''
 

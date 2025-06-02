@@ -1,24 +1,20 @@
 '''
 Clase:        2
 Tema:         Bloque condicional
-Solicita una cadena de texto que representa una contraseña, y verifica si la contraseña
-cumple con las siguientes condiciones: tener al menos 8 caracteres, un número y una
-mayúscula.
+Desarrollar un programa en Python que permita calcular el impuesto que debe pagar
+un usuario por el consumo de energía. El cálculo debe realizarse basado en la siguiente
+tabla.
 
 Entrada:
-• Una cadena de texto
+• Unidades consumidas (entero).
 
 Salida:
-• Dos posibles valores: "Contraseña segura" o "Contraseña no segura".
-
+• Impuesto aplicado ($).
 Restricciones:
-• Sin restricciones
-
-Sugerencia:
-• Investigar sobre los métodos isdigit() y isupper()
+• Sin restricciones.
 
 Autor:        Luis German Dueñas Bernal
-Fecha:        2025-14-15
+Fecha:        2025-05-12
 Estado:       [ Terminado ]
 '''
 
