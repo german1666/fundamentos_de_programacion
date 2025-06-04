@@ -25,16 +25,19 @@ for num in lista:
   if b < len(lista):
     while True:
       if b == len(lista):
+        # print(f"{lista[a]} comparado con {lista[b]}")
         lider.append(lista[a])
         break
       if lista[a] < lista[b]:
+        # print(f"{lista[a]} < {lista[b]}")
         break
       else:
+        # print(f"{lista[a]} > {lista[b]}")
         b += 1
   a = a +1
   b = a +1
   
-# print(lider)
+print(lider)
 response = ""
 for num in lider:
   response += str(num) + " "
