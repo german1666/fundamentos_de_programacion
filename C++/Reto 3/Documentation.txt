@@ -1,0 +1,28 @@
+d_estudiante (FK → Estudiante.id_estudiante)
+
+fecha_prestamo
+
+fecha_devolucion (opcional, null = préstamo activo)
+
+3. Relaciones y cardinalidades
+
+Autor 1 — N Libro Un autor puede escribir muchos libros.
+
+Libro 1 — N Préstamo Un libro puede registrarse en varios préstamos (históricos).
+
+Estudiante 1 — N Préstamo Un estudiante puede realizar múltiples préstamos.
+
+4. Reglas de negocio
+
+Unicidad de ISBN Cada libro debe tener un ISBN único.
+
+Un préstamo activo por libro Solo puede existir un préstamo sin fecha de devolución por libro.
+
+Integridad referencial No se deben eliminar autores, libros o estudiantes que tengan préstamos relacionados.
+
+5. Diagrama ER
+
+El diagrama se encuentra disponible en el siguiente enlace
+https://dbdiagram.io/d/Diagrama-ER-—-Biblioteca-Escolar-Fase-1-68d3418b7c85fb99610ba822
+
+Además, se incluye la imagen exportada como referencia
